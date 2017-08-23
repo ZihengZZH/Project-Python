@@ -13,3 +13,7 @@ A new file was added as simple_crawler.py which is a crawler for online PDF file
 18th Aug 2017 UPDATED
 --
 A new folder was added to store a simple project as friend analysis through a WeChat API. More details refer to WeChat_FriendAnalysis folder.
+
+23rd Aug 2017 UPDATED
+--
+A new file was added as image_crawler.py which intends to crawl all of images inside an webpage. Moreover, it is necessary to add a header to make request normal as from ordinary browser.
