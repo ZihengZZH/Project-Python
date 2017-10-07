@@ -1,9 +1,6 @@
 # Project_Python
 
-This repository is intended to store the Python project.
-I did not have any Python during undergraduate, so I took some courses on Coursera.
-I joined in the specialization instructed by Dr Chuck from University of Michigan.
-Some small projects inside the courses are archived inside this repository.
+This repository is intended to store all the Python projects, which might realise a fantastic algorithm or might solve a realistic problem.
 
 
 12th Aug 2017 UPDATED
@@ -17,3 +14,7 @@ A new folder was added to store a simple project as friend analysis through a We
 23rd Aug 2017 UPDATED
 --
 A new file was added as image_crawler.py which intends to crawl all of images inside an webpage. Moreover, it is necessary to add a header to make request normal as from ordinary browser.
+
+7th Oct 2017 UPDATED
+-- 
+A new file was added as nash_equilibria which contains implementation to calculate PNE and MNE inside a two-player strategic game. PNE stands for pure Nash equilibrium and MNE stands for mixed Nash equilibrium
