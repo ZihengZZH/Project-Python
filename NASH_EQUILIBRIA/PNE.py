@@ -14,7 +14,7 @@ def show(table):
     
     for i in range(table.shape[0]):
         for j in range(table.shape[1]):
-            print("(",table[i][j][0],",",table[i][j][1],")\t",end="")
+            print("({0},{1})".format(table[i][j][0],table[i][j][1]), end="\t")
         print()
         
 
