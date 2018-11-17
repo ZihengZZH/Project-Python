@@ -1,6 +1,6 @@
 ,City,NickName,Province,Sex,Signature
 0,洛阳,张子恒,河南,1,What doesn't kill you makes you stronger
-1,成都,石琦,四川,2,能力配得上野心，乐观敌得过逆境
+1,成都,石琦,四川,2,
 2,洛阳,Mn,河南,1,嗯嗯嗯嗯嗯嗯
 3,洛阳,获利谢特,河南,1,星期六晚上 哪儿都不想去 也无法入睡
 4,洛阳,一页落尘,河南,1,是不是给你脸了
@@ -10,581 +10,667 @@
 8,,朱晓琪,,0,
 9,苏州,Frank R.,江苏,1,"Google Plus, Frank R.
 google.com/+FrankR"
-10,洛阳,颠沛而立,河南,1,。
-11,,怪你过分美丽,,2,
-12,洛阳,敏敏,河南,2,Lucky me!
-13,广州,LAW👻From👻Joe,广东,1,
-14,洛阳,秦小哈,河南,1,Qinpeiming
-15,Los Angeles,杨剑成 Roy Yang,California,1,PEACE &amp; LOVE
-16,苏州,Thudering,江苏,1,
-17,,Alejandro,Navarra,1,Never give up on your dreams. Keep sleeping
-18,苏州,Achtziger,江苏,1,imagination.creation
-19,洛阳,高俊,河南,1,巅峰时刻，唯快不破！
-20,舟山,Z,浙江,1,
-21,杨浦,Frank Lu,上海,1,
-22,,William,,1,
-23,洛阳,佛主,河南,1,伟人
-24,,syl,,0,
-25,虹口,YingYu,上海,1,
-26,苏州,江花,江苏,1,有些时候，我们必须面对现实，强颜欢笑。
-27,,幽兰,,2,
-28,南京,格林开,江苏,2,幸运的徐小民
-29,苏州,叶放,江苏,1,behave like an upwarddog
-30,苏州,卷叶柏,江苏,1,不修边幅，不着边际，不务正业，不学无术。
-31,石家庄,陈从容,河北,2,
-32,苏州,JinAirsOs,江苏,1,
-33,,东方,河南,1,
-34,Liverpool,Liberty Park Liverpool,England,2,Welcome to LIBERTY PARK LIVERPOOL
-35,洛阳,zl,河南,2,
-36,,lily,,0,
-37,,凡,,1,现充都给我爆炸吧
-38,淄博,途,山东,1,
-39,洛阳,045解放南店焦平稳,河南,2,
-40,,Elford 文,Seoul,2,Lie to yourself.
-41,苏州,高点点15850164648,江苏,2,高点点あなたは一番優秀だ！
-42,Liverpool,Likhitha Ala,England,2,
-43,南通,袁养浩守天城,江苏,1,游必有方
-44,,IceMaker,,1,"原来我一直都不是一个人 <span class=""emoji emoji1f631""></span>"
-45,苏州,DOU@簇格运动,江苏,1,Keep Moving
-46,,Carina,江苏,2,人如书，书人生
-47,苏州,在线菌,江苏,2,"欢迎为在线菌推荐优秀文摘<span class=""emoji emoji1f339""></span>"
-48,苏州,蛋奶星星🙈,江苏,2,岂能尽如人意 但求无愧于你
-49,苏州,舟💤,江苏,2,
-50,苏州,Alex 陈哲,江苏,1,
-51,洛阳,沉angel,河南,2,做个认真生活的人
-52,洛阳,Dong,河南,1,
-53,厦门,🙃,福建,1,
-54,,Brandon Kwok,,1,
-55,嘉定,logo图案片制作__顺子光学,上海,1,专业制作销售各种logo图案片，投影灯
-56,苏州,Kenneth,江苏,1,
-57,,焦红卫,Burgenland,1,。。。。。。
-58,洛阳,活泼 td,河南,1,我爱蓝白
-59,西城,Ben,北京,1,
-60,郑州,张若男,河南,0,
-61,Cambridge,永不停吃的Kie,England,1,我是傻白甜~
-62,苏州,王皓,江苏,1,"新头像为唐寅真迹“虎啸山林图”，现珍藏于家中客厅！ <span class=""emoji emoji1f639""></span>"
-63,Kokomo,Shuhao Xu,Howard,1,得意，失意，切莫在意；顺境，逆境，切莫止境。
-64,苏州,王祥➡️Roger,江苏,1,理性的非理性
-65,苏州,Jinglei,江苏,2,
-66,苏州,蘇蘇蘇蘇烜,江苏,2,2017 
-67,,Cassie悦,,0,
-68,苏州,七彩气球，曹忠华18994391117,江苏,1,专业，专注
-69,苏州,凌莫槿🍭,江苏,2,蘑菇蘑菇他不会开花，小姐小姐你还爱他吗
-70,London,何元硕Neil,England,1,每天都有新的问题
-71,苏州,初期,江苏,2, 时光不会倒着走  我也不会再回头.
-72,,Elaine夏夏,Zurich,2,天下三分明月夜，两分无奈是扬州。
-73,苏州,李子傲,江苏,1,
-74,,Ricardo Lau,Tokyo,1,一名兴趣使然のapprentice product designer です
-75,苏州,姚晔斌,江苏,1,18625103962
-76,Liverpool,MitiS,England,1,"Youth is not a time of life, it is a state of mind."
-77,苏州,苏州色彩电讯,江苏,1,苹果iphone7 三星S7分期付款只要1000块啦
-78,,洛阳人在天津,天津,2,老公孩子热炕头
-79,哈尔滨,Steve,黑龙江,1,"You are here, there's nothing I fear..."
-80,洛阳,I wanna roll,河南,2,
-81,苏州,jd赵玉宏,江苏,1,
-82,苏州,Ψ段然Ψ,江苏,2,专注『应用心理学』与『家族精神传承』
-83,河北,爱揍羊的小怪兽,天津,2,一本正经的胡说八道——
-84,,Ps Pencil,山东,1,Life is hard. Let's make it harder.
-85,无锡,(ﾉ´▽｀)ﾉ♪迷之高冷羊君,江苏,2,ALL IS WELL 
-86,浦东新区,孟家旭,上海,2,Stop letting chances to decide life.
-87,,苍烟落照,,1,
-88,成都,Piper,四川,2,嗨嗨~
-89,杭州,行自在,浙江,1,如意:不思八九，常想一二
-90,,Elroy,,1,。
-91,洛阳,齐大懿,河南,1,
-92,苏州,LS,江苏,2,
-93,苏州,哟〜芬,江苏,2,
-94,大连,懒猴星,辽宁,2,STEP BY STEP
-95,洛阳,不要网名了可还行,河南,2,"<span class=""emoji emoji1f451""></span>"
-96,洛阳,中流砥柱,河南,1,
-97,石家庄,🐻,河北,2,
-98,,米桃洁,,0,
-99,,A别说再见,,1,不管你拥有什么，可只有爱，会让你真正快乐。
-100,荆州,JD,湖北,1,To be a better man.
-101,,Last night,Abu Dhabi,1,
-102,洛阳,彭家有狼,河南,1,屌丝终有逆袭日
-103,苏州,夏末繁华里 🍀,江苏,2,
-104,Liverpool,Ryan,England,1,
-105,苏州,Crystal,江苏,2,"Your ATTITUDE,
-not your APTITUDE,
-determines your ALTITUDE."
-106,静安,张桐坡Jack,上海,1,Happiness is all ~
-107,苏州,没有重力的🌍,江苏,2,The Pale Blue Dot
-108,漳州,sakuraume,福建,2,当个向日葵，碰到什么都要往好处努力
-109,海淀,刀～,北京,1,
-110,,Yvonne Yan,,2,想玩狼人杀。。。
-111,苏州,王以宁 Stacy,江苏,2,😶😶😶
-112,武汉,朱垠吉,湖北,1,立于浮华之世 奏响天籁之音
-113,Cambridge,raoxj,England,1,Sotto voce
-114,Liverpool,Calvin陈子恒,England,1,
-115,San Jose City,👉🏻Joyee👈🏿,California,2,
-116,苏州,竹林,江苏,2,
-117,苏州,Ken,江苏,1,
-118,武汉,陈忠谨,湖北,1,18896501896
-119,,陈小花,,2,…
-120,苏州,陈熠（诚创蓝海）,江苏,1,诚创蓝海：智能科技孵化器、吃喝玩乐界实体产业资源整合企业！
-121,洛阳,V,河南,1,男人是用金钱装扮自己的。
-122,青岛,陈洪光,山东,1,
-123,Melbourne,Santorini🍓🍼,Victoria,2,像风走了八千里 不问归期
-124,遵义,谢玘瑶,贵州,2,
-125,,cxxu96,,1,
-126,洛阳,Jun,河南,2,生活在脚下
-127,苏州,Artemis💋🐳,江苏,2,越努力越幸运
-128,,佩华,Luzern,2,"<span class=""emoji emoji1f367""></span><span class=""emoji emoji1f353""></span>"
-129,苏州,李实 lishi,江苏,1,不接受语音信息
-130,杭州,Super Elephant,浙江,1,Talk is Cheap
-131,洛阳,宗威,河南,1,打出自己的一片天
-132,Liverpool,赵耀 Harry,England,1,"Enjoy the ride, love the ending～"
-133,苏州,三少爷蔡元山,江苏,1,
-134,开封,糖果城堡里的小妖,河南,2,竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生
-135,苏州,sue,江苏,2,陪你一起成长。
-136,商丘,阿达,河南,1,
-137,海淀,考满分Bella,北京,2,13716461217
-138,苏州,Susy_ɹəəp☂,江苏,2,天青色等烟雨
-139,洛阳,Sonny,河南,1,
-140,西安,媛媛不圆,陕西,2,
-141,无锡,Katarina,江苏,2,啦啦啦啦啦
-142,洛阳,一个人想着一个人,河南,1,I just lovin' youヽ 在乎才会乱想，不在乎连想都不会想。
-143,浦东新区,汤雨薇Sabrina,上海,2,感恩！
-144,,Blythe,,2,你必须很喜欢和自己作伴
-145,杭州,神武飒,浙江,1,The best or nothing.
-146,齐齐哈尔,Beryllium,黑龙江,2,Por Una Cabeza
-147,衡阳,🌸熹🍉熹🌸,湖南,2,ଲYou are what you eat🤥
-148,,CHRIS,,0,
-149,淄博,于雪菲 🐬 🐬,山东,2,"<span class=""emoji emoji2600""></span>️"
-150,London,Joseph.G,England,1,喜欢就买，不行就分，多喝热水，重启试试
-151,徐汇,反正你们都有备注改个名字谁知道,上海,0,
-152,厦门,南薰尛瑾,福建,1,他才是日本人。
-153,徐汇,QB君,上海,2,
-154,,变态侦探,,2,
-155,苏州,Quizas Dong,江苏,2,The Art Of Losing Isn't Hard To Master
-156,广州,Track,广东,1,此朋友圈可见
-157,,一格,,0,
-158,,RYAN严燕青,,0,
-159,,阿翌,,1,            认真生活
-160,Liverpool,羽色,England,1,F is an extra letter in life.
-161,苏州,蔡大佩,江苏,1,"father, programmer, day dreamer"
-162,苏州,Derek Grant,江苏,1,成为一个用心生活的人
-163,武汉,老秦,湖北,1,一个打着灯笼也看不到的黑男子
-164,南开,猪宝宝,天津,1,我们的征途，是星辰大海
-165,太原,卓君 Joan,山西,2,
-166,宜春,Sherlock、P,江西,1,I Need U Girl.
-167,苏州,Icey,江苏,2,Chic alive as u wish
-168,,武小宇,,2,痛苦最终会化为营养
-169,,别来无恙,,2,
-170,苏州,Nero,江苏,0,缘，妙不可言
-171,苏州,秦丽 (Lisa),江苏,2,Who am I: lisaqinsuzhou.com
-172,苏州,宁静,江苏,2,久视深渊，必得回眸
-173,长沙,皮理全,湖南,1,"女士们先生们，炸弹轮胎滚起来啦<span class=""emoji emoji1f64e""></span><span class=""emoji emoji1f64e""></span>"
-174,洛阳,A-韩梦雅💋18039966112🎀,河南,2,面对阳光，阴影永远在身后。--阳光女孩
-175,苏州,、须臾,江苏,2,一个脱离了高级趣味的人。
-176,滁州,Quinn,安徽,2,
-177,苏州,🔆Sunny潘黎🔆,江苏,2,mind like water
-178,西安,任向坤,陕西,2,请君莫羡解语花  腹有诗书气自华
-179,Liverpool,grace,England,2,
-180,苏州,和逸伦,江苏,1,
-181,宁波,Stone Cold,浙江,1,
-182,洛阳,Even,河南,2,
-183,苏州,zzzzzl,江苏,2,4s 4 4 u
-184,苏州,张世尧,江苏,1,Wings to the Light
-185,静安,刘米洋,上海,1,Time Will Tell
-186,南京,江人杰,江苏,1,
-187,苏州,糖果糖,江苏,2,
-188,,雷舒可-Phoebe,,2,뢰서가 입니다
-189,温州,Vincent,浙江,1,自由 自律 靠势必实现的决心认真地活着
-190,Berkeley City,KittyQi,California,0,"In order to be irreplaceable, one must always be different. "
-191,苏州,娇娇,江苏,2,
-192,,剧毒术士柯震东😏,Port Elizabeth,1,主业学习，副业吸毒。
-193,苏州,张夏婷,江苏,2,
-194,Washington D.C.,brian 🔥,District of Columbia,1,Quis custodiet ipsos custodes?
-195,洛阳,君雅颂,河南,2,
-196,洛阳,zz,河南,1,
-197,,KK | 棕榈大道🌴,,0,"<span class=""emoji emoji1f334""></span>上班时间10∶00am-6∶30pm,下班后回复稍慢或者明日回复<span class=""emoji emoji1f60a""></span>"
-198,,语白,,2,Waiting.
-199,,李昕 Cloe Li,,2,路途遥远 勿忘初心
-200,苏州,MDZZ 💤,江苏,1,天灭台机党，直推大法保平安233
-201,,学炭官方小助手,,0,
-202,苏州,🎾Zephyr,江苏,2,Be Kind. Always.
-203,苏州,Luc,江苏,1,职业生涯咨询师、引导师、培训师
-204,杭州,CK老爷,浙江,1,我买不起雅阁，也买不起奥迪。但是我可以买得起雅迪啊。
-205,苏州,少楚,江苏,1,莫问收获，但问耕耘
-206,苏州,许静波,江苏,1,
-207,苏州,苏州诗凯意企业营销策划有限公司,江苏,1,快快乐乐每一天
-208,洛阳,kitsch、,河南,1,化成隐形的人
-209,,冬。,,2,哦。
-210,苏州,周小胖,江苏,1,神奇..
-211,苏州,Vito. T,江苏,1,如人饮水。
-212,,朱宝,,2,
-213,,Zimon,,1,复杂的。简单的。
-214,长宁,姜淼,上海,1,专注我内心，向自己皈依，从丛林走向花园！go ahead！
-215,苏州,Tscript,江苏,1,Silence is a true friend who never betray.
-216,,Alex Zheng,,0,Forward
-217,苏州,景昱,江苏,2,“对局面有掌控，对未来留余地，对他人有宽容，对自己有约束”
-218,苏州,AnNiE.tSaI,江苏,2,
-219,,Kang Meng,重庆,2,
-220,丰台,喷小泉 🐚🐬,北京,2,"There will be a rainbow eventually, maybe just at dawn. "
-221,洛阳,苗浩洁,河南,1,那些年，我们眉上写着愁，一雨便成秋，踏风上重楼。
-222,,Akoasm,,1,
-223,苏州, 東娃、,江苏,1,世间并无任何偶然，所有相遇早已注定。
-224,,Cici·蔡,,0,
-225,汉中,清脱古,陕西,2,世上没有无缘无故的爱 也没有无缘无故的恨 你为什么不爱学习
-226,浦东新区,Raymond城,上海,1,Choreographer 编舞 卜问艺术
-227,,尘寰,,1,
-228,温州,圆,浙江,1,心自在 语默动静体自然
-229,合肥,Siqi Li,安徽,2,举世誉之而不加劝，举世非之而不加沮
-230,苏州,天泽,江苏,1,"人生如逆旅
-我亦是行人"
-231,,Owen,,1,
-232,西城,Céline,北京,2,
-233,苏州,จุ๊บ,江苏,1,
-234,,当下,,2,YOU  ONLY  LIVE  ONCE.
-235,洛阳,chen,河南,1,
-236,Pittsburgh,泠,Pennsylvania,2,
-237,苏州,🐒,江苏,1,੯ੁૂ‧̀͡u\: 太急没有故事，太缓没有人生。知世故，不世故。
-238,呼和浩特,進撃の格格,内蒙古,2,Fortune Favours the Bold
-239,苏州,Hongmin,江苏,2,
-240,中山,♚ F i o .,广东,2,
-241,苏州,吃你家米,江苏,1,
-242,,Élias,Marseille,1,
-243,,王楚菲,,2,爱和成长，至死方休
-244,洛阳,院士司令官,河南,1,文能提笔安天下，武能上马定乾坤，要做一个改变时代的国士！
-245,Liverpool,Nathaniel丶,England,1,
-246,南通,Opa-C4-troholo,江苏,1,"Beyond the barricade, is there a world you long to see?"
-247,南开,徐子晴,天津,2,
-248,南京,郭宇轩,江苏,1,
-249,苏州,这个是微信名......,江苏,2,平时一时爽，考试火葬场
-250,,Jules 楊君,Paris,1,tout arrive au moment voulu
-251,浦东新区,🎶黄喉狂魔,上海,1,我只想白成一道闪电
-252,London,钦钦,England,1,
-253,安庆,罗天伦,安徽,1,承平日久，民佚志淫
-254,,爱斯基摩熊,,1,月光照不醒梦境
-255,浦东新区,没有名字的黑玫,上海,1,
-256,,宋凯 Kainix 软件解决方案 公益啦,Burgenland,1,
-257,苏州,eikooc,江苏,2,赏 心 悦 目
-258,,Ericadolanxia,,1,
-259,苏州,kim,江苏,2,
-260,,小棕学长|棕榈大道🌴,,0,
-261,东城,童童,北京,2,童童 doesn't share foods
-262,Melbourne,Mirror,Victoria,2,所有相约的承诺在未知命运前，都只是当下的安慰。
-263,九龙城区,Nancy,香港,2,"求阙于他事,求全于堂上！"
-264,,Hermione,,2,
-265,,💧,,1,
-266,Liverpool,🌊Sharon,England,2,心有猛虎 细嗅蔷薇
-267,苏州,徐梓🎈,江苏,1,会有一个人的出现，让其他人都觉得你变了，可你却深知，那才是你
-268,,邵帅Jimmy,Lyon,1,
-269,九龙坡,王祥畯 Alvin,重庆,1,不低调 也不猖狂
-270,,康睿,,1,
-271,,菠萝🍍没有蜜,,2,“哪怕什么真理无穷，进一寸有一寸的欢喜”
-272,洛阳,No黑不帅^O^,河南,1,"人生如棋,落子无悔；世事若梦,缘起无常。"
-273,,韩昊,上海,1,
-274,苏州,陆博煜,江苏,1,心怀正念 坦荡前行
-275,无锡,Nora,江苏,2,
-276,,LEEEEEYY,,1,稗子
-277,洛阳,司马一桢,河南,2,
-278,洛阳,DuSC,河南,1,
-279,常州,Zeal,江苏,2,Just have a little faith.
-280,西安,AirManGo,陕西,1,尚未佩妥剑，转眼便江湖。愿历尽千帆，归来仍少年。
-281,徐汇,Elton,上海,1,当时只道是寻常
-282,荆州,未来,湖北,1,未来
-283,唐山,deli啊,河北,1,
-284,,碎碎,北京,1,
-285,苏州,Jennifer清华,江苏,2,
-286,Liverpool,陶潇凡,England,2,吃吃吃٩(˃̶͈̀௰˂̶͈́)و
-287,,陈思,,0,
-288,,Luna,,0,"Work hard, Play hard"
-289,泉州,...,福建,1,好想变成螃蟹
-290,苏州,👽👽园丁丁,江苏,2,人生是承上启下，承前启后的责任感。
-291,,X,,0,
-292,,韩涵寒函憾喊晗,,2,心有千军万马 随处仗剑天涯
-293,苏州,爱莎梨爱吃🍐,江苏,2,"Hold on and wait, have a little faith"
-294,,FreeLance,,1,永远に忘れないでください 决して后悔しない
-295,海口,LINX-,海南,2,人分两类 迷人乏味
-296,Jeonju,Dandy,Gyeongsangbuk-do,1,像大夏天的雷雨一样的泪水 一直下 一直下
-297,苏州,梁娜💓RENOGY如果新能源,江苏,2,"<span class=""emoji emoji1f338""></span>善良 自省 聪明 乐观 <span class=""emoji emoji1f338""></span>"
-298,成都,Samuel. 芊杉🌲,四川,1,"含蓄内敛不羁爱自由<span class=""emoji emoji1f446""></span>"
-299,哈尔滨,洪子涵 Helen,黑龙江,2,做自己。
-300,,杨小阡,,2,此后如竟没有炬火，我便是唯一的光
-301,淄博,妄想鬼,山东,2,不入流
-302,苏州,👀董哥💅,江苏,2,小梦大半
-303,牡丹江,梦纸鹤,黑龙江,1,Never forget it.
-304,洛阳,萌🍃,河南,1,这个世界有好人，也有坏人。而我，夹在中间，左是温暖，右是荒寒
-305,San Jose,haofan,California,1,
-306,,陈喆,,1,人生短短急个球，啊不醉不罢休
-307,成都,冇,四川,1,静观其变
-308,静安,BBKinG,上海,1,
-309,南京,Vivian,江苏,2,
-310,南岸,王昱皓,重庆,1,纵有疾风起，人生不言弃
-311,苏州,Julia Ru,江苏,2,出发永远是最有意义的事 去做就是了
-312,Liverpool,🇬🇧Matthew🇨🇳Yan,England,1,
-313,杭州,口口木小又,浙江,2,
-314,洛阳,I still,河南,1,
-315,沈阳,刘兰馨,辽宁,2,朋友圈停用 qq空间关闭
-316,苏州,mylovemuller,江苏,1,人生何处不青山
-317,Atlanta City,叶夕源😄,Georgia,2,Wer bin ich
-318,洛阳,咸鱼要会爱自己,河南,1,有个地方 叫稻城
-319,南昌,肖越,江西,2,如果没及时回复请联系18896787109，或者豆瓣私信”风琴与鱼町”
-320,苏州,吃我一记光剑！,江苏,1,密码是pi，如果不对的话，就继续往下背🤔
-321,苏州,心怡sherry,江苏,2,I am as you see me 
-322,Liverpool,xx,England,2,诚恳过
-323,,张硕,,0,
-324,长春,孙硕,吉林,2,
-325,苏州,HarOldShaw,江苏,1,On the road. To the moon
-326,苏州,Epoch,江苏,1,减肥 早睡 安心学习 唱歌 看书
-327,哈尔滨, ,黑龙江,2,无论多么突如其来，都要接受现实。不哭，我很坚强
-328,南京,董董咚咚锵,江苏,1,
-329,苏州,甲壳虫,江苏,2,快乐与旁人无关 痛苦自己承担
-330,,Name,,2,
-331,,Charles,,0,风雨漠北，烟花江南。
-332,,Elijah  🔛,Granada,1,Venga~
-333,Liverpool,郭德旺toretto,England,1,Entrepreneur | Maker | Dealer | Hacker | Player
-334,,对方正在咸鱼...,,2,勇敢一点
-335,,An迪y🌸,,2,Agoni
-336,台州,y 임혜영,浙江,2,爱上一朵花就陪她去绽放。
-337,无锡,桂🍒Grace,江苏,2,"You are ON TIME in your TIME ZONE ♚Destiny set up for you<span class=""emoji emoji2728""></span>"
-338,福州,Lixue,福建,2,Learning...
-339,,Miss Q,,2, 努力不一定成功 放弃就一定失败
-340,, Elaineee,Kowloon City,2,
-341,,宋昕颐,,2,不忘初心 方得始终
-342,苏州,camille,江苏,2,Keep looking don't settle
-343,苏州,王鸿蒙 Wang Hongmeng,江苏,2,大方无隅
-344,苏州,Dan,江苏,1,壁立千仞  无欲则刚
-345,苏州,小怪獸IvanLau,江苏,1,Naked As We Came
-346,南京,任子骁,江苏,1,
-347,海淀,老司机肯叔,北京,1,
-348,厦门,Lemon Tree🐳,福建,2,
-349,苏州,蔡彬（Fred）,江苏,1,
-350,,段子手小明,,0,不思量，forever young
-351,南京,Alizarin,江苏,2,上食埃土 下饮黄泉
-352,,穷的n次方,,2,...
-353,静安,Flora,上海,2,Follow your brain.
-354,西安,思迪,陕西,2,保持开心乐观吧〜
-355,苏州,alan zhao,江苏,1,自从来到这个世界，就没想过要活着回去
-356,,春田花花幼稚园🌸,,2,"<span class=""emoji emoji3299""></span>"
-357,南京,Tina,江苏,2,
-358,,李籽健,,1,You're beautiful.
-359,,Coral_33,上海,2,
-360,郑州,村口王师傅,河南,1,往者不谏 来者可追
-361,洛阳,风采依旧,河南,1,不忘初心，方得始终
-362,,water,,2,"<span class=""emoji emoji1f367""></span>"
-363,洛阳,🍊,河南,2,国家一级退堂鼓演奏者
-364,苏州,SAJ,江苏,2,EVEN YOU
-365,,圣上,,2,
-366,,那人似狗,,1,"I afford the life that I chose, no matter good or bad."
-367,,徐夢芝,上海,2,"<span class=""emoji emoji1f4f1""></span>13512154405，贷款、信用卡、理财、POS机"
-368,,白 の 兰 ←_←,Lausanne,2,木有朋友圈。「请叫我从心法师」
-369,,S,,2,
-370,苏州,Rickey,江苏,2,我现在所做的 都会比我做过的一切都美好
-371,苏州,Mr.Chan,江苏,1,白日梦都不能做 活着还有什么意义！
-372,苏州,🌸Natalie👗,江苏,2,醒来觉得甚是爱你
-373,滨海新区,王昊轩,天津,1,Do better than the best.
-374,闵行,Ricardo Izecson Dos Santos Leite,上海,1,心有猛虎，细嗅蔷薇
-375,苏州,Aegean,江苏,2,The secret of getting ahead is getting started.
-376,洛阳,W,河南,1,
-377,海淀,张楠,北京,2,不出去走走，永远不知道世界有多大～
-378,,高鸣,,1,
-379,苏州,Kevin 叶添宇,江苏,1,当立不惑 凝命而为
-380,苏州,Aaron,江苏,1,休、休。
-381,,被肥肉封印的腹肌,,1,I'll be fine 
-382,,二到深处自然萌💤,Zurich,2,Yesterday you said tomorrow.
-383,苏州,suvie,江苏,2,I am fine 
-384,苏州,韩宸诚,江苏,1,虚怀若谷，求知若渴
-385,徐汇,米兰吴翰,上海,1,专注
-386,洛阳,魏来,河南,1,So blame it on the night. Don't blame it on me.
-387,杭州,Abel🐯,浙江,1,What can I do for you
-388,,Amy Li,,0,
-389,苏州,大排,江苏,2,学着跟世界打交道
-390,苏州,July,江苏,2,不是一个善良姑娘。
-391,南京,👆 Kibb,江苏,1,目标导向型
-392,,wyf,,2,
-393,,MonkeyBonnie,,2,全世界性格最好的女孩
-394,苏州,👠K&amp;Q YU🍷,江苏,2,"Call Me Nu Name@<span class=""emoji emoji1f41f""></span>味•精<span class=""emoji emoji1f41f""></span>"
-395,苏州,章魚小姐Wensi,江苏,2,不争，不爱，不悲，不喜。
-396,杭州,邵皓楠 Rafa,浙江,1,从心所欲不逾矩
-397,东城,方庄 Zhuang,北京,1,不善交际。
-398,苏州,🍋Elaine👒🎒,江苏,2,The best or Noth.
-399,Sydney,VIVIAN_Super👁,New South Wales,2,what makes you vulnerable makes you beautiful.
-400,苏州,孟磊,江苏,1,
-401,,爱吃梨的油,,1,我不能眼看着答应伱做的一切随时间消失不见。
-402,南京,Cecilia,江苏,2,李潇云
-403,,阿斌,,1,要活得漂亮 活得精彩
-404,宁波,A 胡欣 Elissa,浙江,2,"来时怎知退时潮<span class=""emoji emoji1f433""></span>"
-405,Melbourne,Rain Gan,Victoria,1,
-406,,贾若琳,,2,         See u in the sunlight 
-407,邯郸,Sherryan,河北,1,
-408,London,Tian,England,1,Go get it
-409,London,Jessie,England,2,舍不得璀璨俗世
-410,,曹曦之,,2,就怕你宁愿流泪望天却不昂首向前
-411,烟台,NATALIE.,山东,2,Be stronger
-412,,王栋,,1,"Whereas I was blind, now I see."
-413,金华,Odette☀️,浙江,2,通晓地球到星辰的广袤空间，却在地面到头骨之间迷失了方向。
-414,,Scarlett,,0,‭
-415,苏州,Henry.X,江苏,1,夭之沃沃，樂子之無知
-416,西安,🔮,陕西,1,nswdmx
-417,,Susan Luo 罗娅,Lille,2,
-418,,啊不屈服的软妹！,Faadhippolhu,2,
-419,,👑 DaJie.,,2,很nice ！
-420,,thesecret,,0,
-421,苏州,鲍莹莹 🎵,江苏,2,独立之精神 自由之思想
-422,Sydney,KEITH🎹骐,New South Wales,1,不以物喜 不以己悲
-423,武汉,Odile,湖北,2,"古老的夜晚和远方的音乐是永恒的,但那不属于我。"
-424,,DiLYnna.🌕,Yau Tsim Mong,2,Every Day is D-Day. ☾
-425,苏州,他叫Graves🔚,江苏,1,走 我们看海去
-426,苏州,👉瀞漫,江苏,2,不畏浮云遮望眼
-427,郑州,朱浩鹏,河南,1,
-428,苏州,是名净信,江苏,2,阳光下像个小孩，风雨里像个大人
-429,新乡,A百度张沛,河南,1,世界那么乱，装纯给谁看！
-430,徐汇,Citizen,上海,1,
-431,苏州,💨,江苏,2,与
-432,London,Yueling,England,2,要盔甲 不要软肋
-433,,Gisselle,,0,closed
-434,,rush.hours,Mendoza,1,
-435,,稀饭Zephyr,,1,Some say love it is a river that drowns the tender reed.
-436,,中国丹,,2,
-437,苏州,August,江苏,1,
-438,苏州,啊檀檀檀檀噢,江苏,2,啊啊啊啊啊 檀 喲
-439,Liverpool,Jemmy 杨,England,1,归来仍是少年
-440,,belinda🌛,Offaly,2,Bite off more than one can chew.
-441,济南,😇,山东,2,
-442,Washington City,林孝民,District of Columbia,1,"Smile, everybody is watching."
-443,苏州,那些曾经的回忆,江苏,2,
-444,苏州,xinyue,江苏,2,   
-445,,芒果班戟🌻,,0,小可爱
-446,西城,Bazinga,北京,1,
-447,苏州,YOYO于文鑫,江苏,2,多一分珍惜，少一分计较，感恩惜福～◡̈⃝⃝ ᵍᵒᵒᵈ
-448,杭州,Shallum,浙江,1,适度地肆意妄为
-449,苏州,9,江苏,2,She's gone 
-450,Liverpool,大老板®,England,2, ⸝⸝⸝⸝◟̆◞̆♡健康
-451,苏州,胖仙女🌸,江苏,2,
-452,苏州,听说,江苏,1,缘是天定，份在人为
-453,,加勒比海蓝,,0,但行好事，莫问前程。
-454,Liverpool,Breathless,England,1,
-455,苏州,莉莉安,江苏,2,此心光明，亦复何言
-456,苏州,夏雯,江苏,2,打开对话机制
-457,,轰焦冻的女朋友,,0,fuck you
-458,苏州,阿吞仔,江苏,2,
-459,南昌,Asura,江西,1,"life likes to play jokes on all, 
-not only you alone."
-460,,GTT,Paris,2,
-461,,Keni Chen,,2,living in my heavily populated solitude
-462,Melbourne,Haya🎐魏尧尧,Victoria,2,"Diligence redeems stupidity, the slow needs to start early."
-463,Liverpool,小七,England,1,
-464,苏州,夏至春,江苏,2,
-465,苏州,Sophia S.,江苏,2,"水深流缓，语迟人贵
+10,广州,LAW👻From👻Joe,广东,1,
+11,Los Angeles,杨剑成 Roy Yang,California,1,PEACE &amp; LOVE
+12,苏州,Thudering,江苏,1,
+13,,Alejandro,Navarra,1,Never give up on your dreams. Keep sleeping
+14,舟山,Z,浙江,1,
+15,,syl,,0,
+16,苏州,卷叶柏,江苏,1,不修边幅，不着边际，不务正业，不学无术。
+17,,东方,河南,1,
+18,Liverpool,Liberty Park Liverpool,England,2,Welcome to LIBERTY PARK LIVERPOOL
+19,洛阳,zl,河南,2,
+20,淄博,途,山东,1,
+21,Liverpool,Likhitha Ala,England,2,
+22,苏州,DOU@簇格运动,江苏,1,Keep Moving
+23,苏州,蛋奶星星,江苏,2,"别人都祝你快乐
+而我只希望你经历山河
+觉得人间值得"
+24,苏州,Alex 陈哲,江苏,1,
+25,苏州,Kenneth,江苏,1,
+26,Cambridge,永不停吃的Kie,England,1,我是傻白甜~
+27,Liverpool,MitiS,England,1,"Youth is not a time of life, it is a state of mind."
+28,洛阳,齐大懿,河南,1,
+29,,米桃洁,,0,
+30,静安,张桐坡Jack,上海,1,Happiness is all ~
+31,西安,媛媛不圆,陕西,2,
+32,武汉,老秦,湖北,1,一个打着灯笼也看不到的黑男子
+33,杭州,CK老爷,浙江,1,我买不起雅阁，也买不起奥迪。但是我可以买得起雅迪啊。
+34,苏州,甲壳虫,江苏,2,快乐与旁人无关 痛苦自己承担
+35,苏州,王鸿蒙 Wang Hongmeng,江苏,2,大方无隅
+36,海淀,老司机肯叔,北京,1,
+37,西安,思迪,陕西,2,保持开心乐观吧〜
+38,,Amy Li,,0,
+39,,Camille_dang,,2,
+40,苏州,Julia Ru,江苏,2,出发永远是最有意义的事 去做就是了
+41,,Charles,,0,风雨漠北，烟花江南。
+42,苏州,周小胖,江苏,1,神奇..
+43,,杨富民,,0,
+44,淄博,于雪菲 🐬 🐬,山东,2,"<span class=""emoji emoji2600""></span>️"
+45,苏州,王皓,江苏,1,"新头像为唐寅真迹“虎啸山林图”，现珍藏于家中客厅！ <span class=""emoji emoji1f639""></span>"
+46,闸北,刘米洋,上海,1,
+47,Washington City,林孝民,District of Columbia,1,"Smile, everybody is watching."
+48,南岸,王昱皓,重庆,1,纵有疾风起，人生不言弃
+49,,小棕学长|棕榈大道🌴,,0,
+50,Canberra,X,Australian Capital Territory,1,
+51,Atlanta City,叶夕源😄,Georgia,2,Wer bin ich
+52,Melbourne,陆河均,Victoria,2,惜时自律
+53,苏州,蘇蘇蘇蘇烜,江苏,2,2017 
+54,苏州,习途君,江苏,2,西浦申研问题，有问必答。
+55,,Alex Zheng,,0,Forward
+56,,安东尼的不二,Kostroma,1,I just lovin' youヽ 在乎才会乱想，不在乎连想都不会想。
+57,,CHRIS,,0,
+58,南开,徐子晴,天津,2,
+59,,FreeLance,,1,永远に忘れないでください 决して后悔しない
+60,滨海新区,王昊轩,天津,1,Do better than the best.
+61,,2018剑桥新生加群小助手,,0,
+62,苏州,夏末繁华里 🍀,江苏,2,"I am a little tempted, but so afraid to look in your eyes."
+63,苏州,Achtziger,江苏,1,imagination.creation
+64,,彦祖 丨英国小队长 🇬🇧,,0,请备注:目前的学校+专业和均分＋目标申请学校
+65,苏州,Jennifer清华,江苏,2,
+66,苏州,Yuufenn,江苏,2,
+67,苏州,格林开,江苏,2,泯然众生
+68,成都,沛,四川,2,嗨嗨~
+69,,陈小花,,2,…
+70,宁波,徐奕,浙江,1,山海皆可平。
+71,苏州,七彩气球，曹忠华18994391117,江苏,1,专业，专注
+72,,慕言,北京,2,
+73,Liverpool,叶放,England,1,behave like an upwarddog
+74,浦东新区,没有名字的黑玫,上海,1,
+75,济南,Ps Pencil,山东,1,Life is hard. Let's make it harder.
+76,Melbourne,Santorini🍓🍼,Victoria,2,像风走了八千里 不问归期
+77,苏州,Hongmin,江苏,2,
+78,西城,Ben,北京,1,
+79,海淀,亚滨,北京,1,
+80,London,Dear大表姐,England,2,呐～做人，最重要的是开心～
+81,,被肥肉封印的腹肌,,1,
+82,苏州,韩宸诚,江苏,1,虚怀若谷，求知若渴
+83,无锡,桂🍑Grace,江苏,2,好事多磨
+84,,一格,,0,
+85,苏州,少楚,江苏,1,悟已往之不谏，知来者之可追。实迷途其未远，觉今是而昨非。
+86,南通,Opa-C4-troholo,江苏,1,"Beyond the barricade, is there a world you long to see?"
+87,苏州,蔡大佩,江苏,1,"father, programmer, day dreamer"
+88,苏州,August,江苏,1,把喜欢的东西拿的出手，也绝不向不喜欢的东西俯首。
+89,虹口,YingYu,上海,1,
+90,,wyf,,2,less is more
+91,Cambridge,raoxj,England,1,Sotto voce
+92,苏州,姚晔斌,江苏,1,18625103962
+93,郑州,村口王师傅,河南,1,往者不谏 来者可追
+94,武汉,Odile,湖北,2,"古老的夜晚和远方的音乐是永恒的,但那不属于我。"
+95,苏州,苏州色彩电讯 何勇,江苏,1,手机、电脑、监控、保险、你想要的我都有
+96,苏州,Icey,江苏,2,Chic alive as u wish
+97,,lily,,0,
+98,,Jules 楊君,Paris,1,tout arrive au moment voulu
+99,,程士庆,,1,
+100,丰台,喷小泉 🐚🐬,北京,2,"Deeds are fruits, words are but leaves.  "
+101,,進撃の格格,,2,女孩子不好好学习将来是要嫁人的
+102,厦门,🙃,福建,1,
+103,杭州,Super Elephant,浙江,1,Talk is Cheap
+104,荆州,未来,湖北,1,未来
+105,苏州,陆博煜,江苏,1,心怀正念 坦荡前行
+106,银川,圣上,宁夏,2,
+107,苏州,Tscript,江苏,1,Silence is a true friend who never betray.
+108,柳州,舟💤,广西,2,Too Big to Know
+109,London,ChaseOffer留学部🎓,England,2,"Chase Offer - Invest in Yourself
+工作时间：每天9:00——21:00"
+110,成都,Samuel. 芊杉🌲,四川,1,"含蓄内敛不羁爱自由<span class=""emoji emoji1f446""></span>"
+111,南京,Tina,江苏,2,
+112,,I still,,1,
+113,San Jose,haofan,California,1,
+114,,段子手小明,,0,不思量，forever young
+115,洛阳,Even,河南,2,
+116,Washington D.C.,brian 🤓,District of Columbia,1,Quis custodiet ipsos custodes?
+117,苏州,郭德旺toretto,江苏,1,注意，这个人不靠谱
+118,苏州,LavenderSun,江苏,2,
+119,Liverpool,JD,England,1,biubiubiu
+120,中山,♚ F i o .,广东,2,
+121,洛阳,Sonny,河南,1,
+122,苏州,Ψ段然Ψ,江苏,2,专注『应用心理学』与『家族精神传承』
+123,苏州,景昱,江苏,2,只管努力，剩下的交给时间
+124,,Akoasm,,1,
+125,烟台,NATALIE.,山东,2,Be kind.
+126,泉州,...,福建,1,好想变成螃蟹
+127,西安,任向坤,陕西,2,履霜坚冰至
+128,London,Neil,England,1,每天都有新的问题
+129,苏州,Quizas Dong,江苏,2,一只冷鸽🕊️
+130,,李昕 Cloe,,2,路途遥远 勿忘初心
+131,New York,泠,New York,2,生者为过客，死者为归人
+132,西安,xinyue,陕西,2,Keep calm and carry on | 簇格软件
+133,苏州,Roderick,江苏,1,੯ੁૂ‧̀͡u\: 太急没有故事，太缓没有人生。知世故，不世故。
+134,,Taurus€£,,1,🚴🏽🚴🏽🚴🏽
+135,武汉,Miracle_16,湖北,1,锦衣未加身
+136,长宁,Citizen,上海,1,
+137,苏州,alan赵博,江苏,1,自从来到这个世界，就没想过要活着回去
+138,,William,,1,
+139,,summer,Foammulah,0,专属于我们自己的联盟
+140,,别来无恙,,2,十元～十元～
+141,苏州,Ken Yu 余振愷,江苏,1,
+142,嘉定,logo图案片制作__顺子光学,上海,1,专业制作销售各种logo图案片，投影灯
+143,苏州,林深不知鹿🦌,江苏,1,Naked As We Came
+144,洛阳,秋山,河南,1,
+145,西城,Céline,北京,2,
+146,合肥,王昊旸,安徽,1,
+147,绍兴,ONE.,浙江,2,
+148,,(๑•́ ₃ •̀๑)Ssss_,,2,认清明天的去向，不忘昨天的来处。
+149,无锡,Yvonne,江苏,2,
+150,常州,Lumos,江苏,2,
+151,东城,童童,北京,2,童童 doesn't share foods
+152,,陈喆,,1,人生短短急个球，啊不醉不罢休
+153,苏州,Jiagi🙄,江苏,2,"我就是我 不一样的烟火<span class=""emoji emoji1f389""></span>🤪"
+154,London,🍪🍪🍪园丁丁,England,2,路过山，路过海，路过喜悦，路过伤悲  TCCIC
+155,,洛阳人在天津,天津,2,老公孩子热炕头
+156,河北,爱揍羊的小怪兽,天津,2,一本正经的胡说八道——
+157,汉中,清脱古,陕西,2,有人群的地方就有左中右
+158,厦门,南薰尛瑾,福建,1,他才是日本人。
+159,Toronto,教雅思的Peter,Ontario,1,
+160,,Zhs,,0,
+161,,对方正在咸鱼...,,2,勇敢一点
+162,苏州,zzzzzl,江苏,2,🍬ᴅᴀʏᴅʀᴇᴀᴍ🦄️
+163,齐齐哈尔,Stitch,黑龙江,2,
+164,苏州,👀董哥💅,江苏,2,小梦大半
+165,,Cassie悦,,0,
+166,Edinburgh,张世尧,Scotland,1,修齐治平
+167,海淀,考满分Bella,北京,2,13716461217
+168,洛阳,风采依旧,河南,1,不忘初心，方得始终
+169,,怪你过分美丽,,2,
+170,洛阳,W,河南,1,
+171,南京,郑睿晨,江苏,1,在梦境中绽放，在绚烂中离去
+172,New York,Calvin陈子恒,New York,1,
+173,苏州,莉莉安,江苏,2,避免沉浸在自我的狭小中
+174,,🤖,,2,这世间所有的苦难与背负尽头，都是行云流水般的此世光荫。
+175,,苍烟落照,,1,
+176,Liverpool,每天好多事,England,1,
+177,,Hermione,,2,
+178,苏州,张夏婷,江苏,2,
+179,,WordSunny小七,,2,
+180,苏州,听说,江苏,1,缘是天定，份在人为
+181,浦东新区,孟家旭 Jiaxu Meng,上海,2,纵去远 以渐跻
+182,,邵帅Jimmy,Paris,1,
+183,苏州,Joanne🎈,江苏,2, 在太空中两人住
+184,苏州,鲍莹莹 🎵,江苏,2,"Your actions define you, 
+not your thoughts."
+185,苏州,哟〜芬,江苏,2,stronger
+186,London,钦,England,1,
+187,Liverpool,Call me Min,England,2,
+188,苏州,海鸥,江苏,1,smile to the life
+189,南昌,Rickey,江西,2,我现在所做的 会比我做过的一切都美好
+190,深圳,Odette☀️,广东,2,通晓地球到星辰的广袤空间，却在地面到头骨之间迷失了方向。
+191,苏州,数据君,江苏,2,申研咨询，有问必答！
+192,Philadelphia City,Yvonne Yan,Pennsylvania,2,maybe not
+193,,amesi,Buenos Aires,1,
+194,海淀,路迢迢🍻,北京,2,一路心塞一路歌
+195,徐汇,Elton,上海,1,当时只道是寻常
+196,南京,郭宇轩,江苏,1,
+197,杭州,行自在,浙江,1,如意:不思八九，常想一二
+198,洛阳,No黑不帅^O^,河南,1,"人生如棋,落子无悔；世事若梦,缘起无常。"
+199,南开,猪宝宝,天津,1,我们的征途，是星辰大海
+200,杨浦,Frank Lu,上海,1,
+201,南京,rzx,江苏,1,
+202,苏州,jd赵玉宏,江苏,1,
+203,苏州,苏州诗凯意企业营销策划有限公司,江苏,1,快快乐乐每一天
+204,南京,芝士圈文书产品酱,江苏,2,我是萌萌哒文书产品酱，期待做你申请路上的好盆友:）
+205,Durham City,危险流浪者,North Carolina,2,失去梦想的咸鱼
+206,无锡,Katarina,江苏,2,啦啦啦啦啦
+207,洛阳,不要网名了可还行,河南,2,"<span class=""emoji emoji1f451""></span>"
+208,,RYAN严燕青,,0,
+209,Sydney,小七,New South Wales,2,看过的月亮，至此成了弧
+210,,别说再见,,1,不管你拥有什么，可只有爱，才会让你真正快乐！
+211,杭州,Abel,浙江,1,What can I do for you
+212,台州,安心的捕梦网,浙江,1,"If you banish the dragons, you banish the heroes."
+213,苏州,、须臾,江苏,2,一个脱离了高级趣味的人。
+214,南京,留先生在线申请♥Peppy,江苏,0,留学咨询顾问，主做英港澳新，就酱
+215,London,伦敦家我 10:00-17:00 工作时间,England,2,房产资讯，房产服务，英国留学，移民服务 www.londonhomeme.com
+216,London,Jessie,England,2,
+217,深圳,谢玘瑶,广东,2,
+218,长沙,皮理全,湖南,1,
+219,青岛,陈洪光,山东,1,
+220,,Elford 文,Seoul,2,Lie to yourself.
+221,南昌,肖越,江西,2,未来不扰，当下不乱，过往不恋。
+222,Liverpool,千夜,England,1,朝孔雀 昼虎 夕象 夜
+223,杭州,口口木小又,浙江,2,
+224,,糖果城堡里的小妖,,2,前途似海，来日方长
+225,,爱吃梨的油,,1,谦卑做人，奉行主的真理，阿门。
+226,杭州,我叫夏学习,浙江,1,愿过去成为你变得温柔的理由
+227,,陈思,,0,
+228,Liverpool,grace,England,2,
+229,武汉,朱垠吉,湖北,1,
+230,洛阳,司马一桢,河南,2,
+231,,LP,,1,Mut heisst machen. 
+232,南开,Chris or Kris,天津,1,
+233,London,Kaye😶,England,1,你眼中倒映的星河烂漫，是不曾见过的世外梦幻🍭
+234,洛阳,魏来,河南,1,身体健康 努力上进
+235,,y 임혜영,Nice,2,爱上一朵花就陪她去绽放。
+236,静安,BBKinG,上海,1,
+237,苏州,夏至春,江苏,2,
+238,,董道明,,1,
+239,Melbourne,Rain,Victoria,1,
+240,静安,Flora,上海,2,
+241,洛阳,龙昌,河南,1,屌丝终有逆袭日
+242,苏州, 東娃、,江苏,1,世间并无任何偶然，所有相遇早已注定。
+243,,凡,,1,现充都给我爆炸吧
+244,,渡,,2,Waiting.
+245,洛阳,百度高俊15517910977,河南,1,巅峰时刻，唯快不破！
+246,南通,袁养浩守天城,江苏,1,丈夫许国 不必相送
+247,London,晴空,England,2,"爱你所爱，无问东西<span class=""emoji emoji2764""></span>"
+248,南京,Alizarin,江苏,2,
+249,无锡,李大蛙呱呱呱,江苏,2,ALL IS WELL 
+250,福州,Lixue,福建,2,Which way is up
+251,洛阳,@Mar14,河南,1,
+252,,康睿,,1,尽管我们都是渺小的沙砾 但却各有姿态
+253,新乡,A00百度本地广告张沛15137917475,河南,1,世界那么乱，装纯给谁看！
+254,,🔆Sunny潘黎🔆,,2,
+255,,汤雨薇Sabrina,,2,极度认真
+256,,何理 Chris,Paris,1,取势 明道 优术
+257,London,Nathaniel丶,England,1,
+258,海口,宗威,海南,1,
+259,San Francisco,Chlobear,California,2,sans rien dire
+260,,Neil. 平俊杰,,1,Mixed Reality
+261,苏州,Epoch,江苏,1,不破不立
+262,虹口,Kai,上海,1,
+263,南京,Holywoo,江苏,2,
+264,London,小七,England,1,
+265,,SnailZ,,0,
+266,,Elijah  🔛,Granada,1,Tres metros sobre el cielo..
+267,苏州,冰糖葫芦五加皮🍡,江苏,2,愿你爱这个世界如初
+268,,奕萱Estella,,2,perennial bright
+269,,Owen,,1,Supearl
+270,徐汇,QB君,上海,2,
+271,蓟县,我是双份De阳光🌼,天津,2,"<span class=""emoji emoji1f33b""></span>愿你一直眉眼带笑"
+272,成都,冇,四川,1,
+273,洛阳,矫正牙,河南,1,厚积薄发
+274,Berkeley City,KittyQi,California,0,"In order to be irreplaceable, one must always be different. "
+275,苏州,今天真是好大的风呀,江苏,2,
+276,哈尔滨,洪子涵 Helen,黑龙江,2,You let me more brave to challenge life.
+277,苏州,Liana梁娜🦄RENOGY如果新能源,江苏,2,目标 专注 ◡̈⃝ྃ
+278,温州,Vincent,浙江,1,自由 自律 靠势必实现的决心认真地活着
+279,London,羽色,England,1,F is an extra letter in life.
+280,,李籽健,,1,You're beautiful.
+281,洛阳,李沛,河南,1,。
+282,,Siqi Li,,2,举世誉之而不加劝，举世非之而不加沮
+283,,徐晨曦,,1,惟有王城最堪隐 万人如海一身藏
+284,,rush.hours,Mendoza,1,路漫漫其修远兮，吾将上下而求索。
+285,London,李泳.Neil,England,1,无忧尽形寿
+286,苏州,李实�lishi,江苏,1,把天聊死的专家
+287,苏州,Yo💨,江苏,2,与
+288,London,Ljrrrr-,England,2,"今tia也要加油鸭<span class=""emoji emoji1f44a""></span>🏻"
+289,洛阳,Jun,河南,2,你现在担心的一切都轻如鸿毛
+290,无锡,Flynn,江苏,1,我知道，你认为我过得好是因为我的珠宝个头大；但其实，我是找到
+291,London,Joseph.G,England,1,眼见风云千樯，落笔道是寻常
+292,Liverpool,Mustard&amp;Salmon,England,1,随心，随欲，随意，随缘…
+293,苏州,吃我一记十万伏特！,江苏,1,密码是pi，如果不对的话，就继续往下背🤔
+294,Liverpool,D·Z·N·W FTL Rein Asuka 02,England,1,"焚琴觀影舞
+葬劍空自斟"
+295,,Carina,江苏,2,人如书，书人生
+296,海淀,张楠,北京,2,想带你去看世界
+297,,杨小阡,,2,我知道我频繁提及宇宙和大海，就是我干的，我负全责
+298,London,欧小阳,England,2,Be yourself 
+299,,Elaine夏夏,Zurich,2,天下三分明月夜，两分无奈是扬州。
+300,,尘寰,,1,
+301,,Blythe,,2,Updated and recalled
+302,九龙坡,王祥畯 Alvin,重庆,1,不低调 也不猖狂
+303,London,Bonfire Heart.,England,1,I tuoi occhi sono azzurri come il mare.
+304,London,Aaron 杜子耕,England,1,DNV GL
+305,苏州,许静波,江苏,1,
+306,常州,Sherry,江苏,2,Just have a little faith.
+307,,解会圆,,2,應無所住而生其心
+308,Liverpool,Beryllium,England,2,Lumos
+309,西安,MoniKa.,陕西,2,情绪很蠢 但客观存在 🦈
+310,,煎妮Jeanine,Faadhippolhu,2,
+311,海淀,刘西平,北京,1,
+312,徐汇,夏雯,上海,2,翥青
+313,太原,郭一锦☁James,山西,1,心里有爱，眼中有他人
+314,济南,😇,山东,2,
+315,,韩涵寒函憾喊晗,,2,Most men led lives of quite desperation 
+316,Liverpool,Sherryan,England,1,
+317,徐汇,米兰吴翰,上海,1,博观而约取，厚积而薄发
+318,Cambridge,Jason,England,1,timeless
+319,,Shao,,2, 
+320,苏州,和逸伦,江苏,1,
+321,静安,徐梦芝,上海,2,"<span class=""emoji emoji1f4f1""></span> 13512154405 贷款、信用卡、理财、POS机"
+322,苏州,Vivian Chu🍭,江苏,2,蘑菇蘑菇他不会开花，小姐小姐你还爱他吗
+323,苏州,Agileboost 公益啦  宋凯 Kainix,江苏,1,借助最先进的互联网技术帮助我们的客户达成他们的使命！
+324,苏州,娇娇,江苏,2,
+325,东莞,宇宙蜗牛塔拉班,广东,1,微信停用，有事qq1455809837，急事13532630001
+326,,芝士圈留学 通讯员,,0,通讯员在线工作时间：工作日9:00-11:30；13:00-18:00 :)
+327,,Flavia,Roma,2,Per ardua ad alta.
+328,苏州,Aaron,江苏,1,(ง •̀_•́)ง
+329,苏州,王祥-Roger,江苏,1,理性的非理性
+330,海淀,冀泽豪,北京,1,
+331,苏州,徐心怡,江苏,2,为君持酒劝斜阳 且向花间留晚照
+332,苏州,蔡彬（Fred）,江苏,1,当下就是最美的风景！
+333,苏州,小鬼不小 👀,江苏,1,"人生不如意事十之八九。
+莫道山穷水尽，当知柳暗花明。"
+334,Ann Arbor,Fuhu_Henry_X.,Michigan,1,術
+335,,朱浩鹏,,1,
+336,商丘,阿达,河南,1,心有独钟
+337,,稀饭Zephyr,,1,Some say love it is a river that drowns the tender reed.
+338,London,Lynn Chen,England,2,Delayed gratification
+339,苏州,MissQ,江苏,2,保持专注 好好学习
+340,New York,Tiffany 🐳,New York,2,
+341,苏州,AnNiE.tSaI,江苏,2,
+342,武汉,杨俊威,湖北,1,
+343,苏州,在线菌,江苏,2,"欢迎为在线菌推荐优秀文摘<span class=""emoji emoji1f339""></span>"
+344,,IceMaker,,1,"原来我一直都不是一个人 <span class=""emoji emoji1f631""></span>"
+345,苏州,JWonderchild,江苏,1,Better to burn out than fade away
+346,深圳,欧阳森,广东,1,我们的征途是星辰大海！
+347,徐汇,青岚Keith,上海,1,人不会在狂欢中变得强大
+348,苏州,MattHew,江苏,1,仰望星空|第一性原理
+349,苏州,🎾Zephyr,江苏,2,Be Kind. Always.
+350,宁波,应武成,浙江,1,
+351,Cambridge,熊肇琪,England,2,
+352,苏州,🌼WEN,江苏,2,除了这一生 我们又没有别的时间。
+353,苏州,初期,江苏,2, 时光不会倒着走  我也不会再回头.
+354,浦东新区,卜智城Bu Zhicheng,上海,1,先做好人，再做好事
+355,,了不起的刘婧君,,2,有趣的灵魂两百多斤
+356,宁波,Stone Cold,浙江,1,
+357,London,王栋,England,1,"Whereas I was blind, now I see."
+358,无锡,难受阿金伦,江苏,1,没意思
+359,黄浦,Vito. T,上海,1,如人饮水。
+360,洛阳,平安信用卡韩梦雅-18039966112,河南,2,面向阳光，阴影永远在身后。-阳光女孩18039966112免费办理信用卡
+361,滁州,작은 매운 닭입,安徽,2,매운 닭입
+362,苏州,JinAirsOs,江苏,1,
+363,,kitsch、,Madrid,1,化成隐形的人
+364,Clayton,Evan,St.Louis,1,
+365,杭州,胡欣 Ruby,浙江,2,"专注互联网领域 算法&amp;大数据
+感谢你来看我"
+366,,朱宝,Vienna,2,
+367,洛阳,余丹敏@Daisy,河南,2,把天真保留到老
+368,New York,Joyee👁 👁,New York,2,"<span class=""emoji emoji1f339""></span>"
+369,江北,Annie,重庆,2,casually cruel
+370,辽源,徐梓🎈,吉林,1,
+371,成都,Liu. Xinyao,四川,2,esorlxa
+372,,Susan Luo,Lille,2,EDHEC | TEDx | EIW
+373,Liverpool,toto,England,1,
+374,苏州,那人似狗,江苏,1,No songs for spiders 
+375,苏州,eikooc,江苏,2,赏 心 悦 目
+376,,曹曦之,,2,就怕你宁愿流泪望天却不昂首向前
+377,苏州,陈熠（诚创蓝海）,江苏,1,诚创蓝海：智能科技孵化器、吃喝玩乐界实体产业资源整合企业！
+378,杭州,邵皓楠 Rafa,浙江,1,
+379,Philadelphia,小凶许,Pennsylvania,1,
+380,苏州,小圆,江苏,2,Even You.
+381,唐山,deli啊,河北,1,不为往事扰，余生只愿笑
+382,苏州,Susy_ɹəəp☂,江苏,2,天青色等烟雨
+383,成都,王十七,四川,1,
+384,苏州,马鸿,江苏,1,万丈红尘三杯酒，千秋大业一壶茶。
+385,洛阳,仁心香茗,河南,0,
+386,London,🎈,England,2,"给时光以生命<span class=""emoji emoji2764""></span>"
+387,,Yixuan.,,2,
+388,苏州,YINGCHI🐑,江苏,2,"Hold on and wait, have a little faith"
+389,London,xx,England,2," ʔ•̫͡•ʕ  <span class=""emoji emoji2665""></span>︎  ʕ•͡•ʔ  "
+390,Liverpool,thesecret,England,0,"<span class=""emoji emoji1f340""></span><span class=""emoji emoji1f4aa""></span> Lucky is believing you are lucky"
+391,安庆,罗天伦,安徽,1,承平日久，民佚志淫
+392,,Brandon Kwok,,1,
+393,London,小太陽吖👑,England,2,To be cool
+394,静安,DDiLYnna.🌕,上海,2,DD for Dilynna Duan.
+395,洛阳,陌上,河南,1,喝着咖啡就着大蒜，秋水共长天一色
+396,苏州,Jinglei,江苏,2,
+397,常州,陈玲,江苏,2,祸兮福之所倚，福兮祸之所伏。
+398,苏州,Derek Grant,江苏,1,成为一个用心生活的人
+399,London,赵耀 Harry,England,1,"Enjoy the ride, love the ending～"
+400,,张夙莘 Sushen,,2,我会不会被枯燥的生活打败。
+401,苏州,Aegean,江苏,2,With a grateful heart
+402,苏州,蔡朋城 ⁸⁶¹⁴⁹¹,江苏,1,
+403,闵行,¿Ricky_Jing?,上海,1,飞光飞光 劝尔一杯酒
+404,洛阳,R,河南,2,爱自己才是终身浪漫的开始
+405,闵行,吴 任几,上海,1,Big bad world
+406,,Elroy,,1,。
+407,,Coral丁姗姗🎈,上海,2,
+408,,Kal,Kassel,1,话在心里
+409,苏州,About time,江苏,2,
+410,,Keni Chen,,2,"In other words, please be true！"
+411,牡丹江,梦纸鹤,黑龙江,1,后知后觉
+412,西安,🔮,陕西,1,
+413,洛阳,陈伏荣13525967963,河南,2,笑对人生
+414,,Zimon,,1,
+415,洛阳,XF,河南,2,
+416,London,明天是废话,England,0,"•|i|•Øi+!].[<span class=""emoji emoji1f308""></span>🏹<span class=""emoji emoji1f334""></span>"
+417,,Linki_T,Turin,2,The worst thing in life come free to us
+418,,堀田,Amsterdam,2,我好想过年
+419,常州,二到深处自然萌💤,江苏,2,Yesterday you said tomorrow.
+420,,高鸣,,1,Ambition has no limits
+421,浦东新区,🎶黄喉狂魔,上海,1,我只想白成一道闪电
+422,苏州,宁静,江苏,2,久视深渊，必得回眸
+423,Liverpool,🌊Sharon,England,2,心有猛虎 细嗅蔷薇
+424,,心怡sherry,,2,Sherry·Woody Uniqueness Wei
+425,,Ricardo Lau,,1,一名兴趣使然のapprentice product designer です
+426,, Elaineee,Kowloon City,2,
+427,宜春,🤯HOW,江西,1,let u free
+428,宁波,ғʀᴇᴅ ʟᴇᴇ🏋,浙江,1,THERE IS NO MAGIC PILL
+429,石家庄,就是我啊🐬,河北,2,
+430,Cambridge,°,England,2,少无适俗韵，性本爱丘山
+431,,LGD,,1,生活不止眼前的苟且，还有诗和远方的田野
+432,洛阳,苦瓜不苦,河南,1,
+433,郑州,梦的精灵,河南,0,
+434,苏州,天添Tiantian,江苏,2,"Cap ou pas cap?
 "
-466,苏州,Turbo,江苏,2,🤚
-467,,Kal,Kassel,1,Without the rope. Then fear will find you again.
-468,Liverpool,Szz,England,1,Lost star
-469,Melbourne,陆河均,Victoria,2,做最坏的打算 尽最大的努力
-470,苏州,Soda,江苏,2,Seize the moment.
-471,洛阳,杨玉嫣真是个好听的名字,河南,2,朋友，来踩踩，不要跑堂哟
-472,,nana~🧀🍩🍰,,2,淡
-473,Melbourne,Eva 🌟,Victoria,2,留住对的
-474,,金,,2,『三千公里外有我的精神家园』
-475,Clayton,George,St.Louis,1,
-476,Manchester,Chloe.陶👽,England,2,
-477,Liverpool,Kaye😶,England,1,麦田弯腰低头在垂钓温柔，这整座山谷都是风笛手🍭
-478,,🌝,,0,
-479,Liverpool,Sunny·Lee,England,2,Be interesting
-480,洛阳,Tong Poo,河南,1,Be straightforward 
-481,,Ray,,1,难
-482,San Diego City,费,California,1,。
-483,杭州,🚀何旭东,浙江,1,人干嘛一定要活成别人的样子，我就是我。
-484,东莞,EstGzer,广东,1,引刀成一快，不负少年头
-485,,April · NJ,,2,Again. This time we have transformers.
-486,苏州,Joanne🎈,江苏,2,  
-487,齐齐哈尔,徐玥,黑龙江,2,
-488,长春,😶Sun,吉林,1,喜欢听歌，喜欢看电影，喜欢看影评
-489,济南,偷了月亮的猫🌙,山东,2,一厢情愿 有始无终
-490,Sydney,小七,New South Wales,2,看过的月亮，至此成了弧
-491,,coolkidsneverdie,,2,及时行乐
-492,济南,я刘朔晗,山东,0,沉能制浮
-493,,XBZ💤,,1,人丑话少爱装逼
-494,苏州,天凉好个秋,江苏,1,没有退路
-495,,陆晓曈,,2,"不约<span class=""emoji emoji1f31f""></span>"
-496,黄浦,大猫 Damon,上海,1,独立果敢 自由有用.
-497,哈尔滨,赵宇屹,黑龙江,1,把别人看得太重的结果就是被别人看成什么都不是
-498,,Krystal🌈,,0,云在青山月在天
-499,苏州,Crystal,江苏,2,"COMPLAINING IS SILLY.
-EITHER ACT OR FORGET."
-500,,LP,,1,Who?
-501,,不想睡觉的河豚兔子,,0,
-502,苏州,Amy想要小腹肌😉,江苏,2,你只有非常努力 才能显得好不费力
-503,合肥,王昊旸,安徽,1,
-504,苏州,徐心怡,江苏,2,
-505,苏州,Flynn,江苏,1,standing on shoulders of Giants
-506,苏州,LGD,江苏,1,或许有一度春风不负微草枯荣
-507,苏州,Livia_,江苏,2,
-508,闵行,吴 任几,上海,1,我们就在比喻中栖息。
-509,南京,郑睿晨,江苏,1,在梦境中绽放，在绚烂中离去
-510,Durham City,危险流浪者,North Carolina,2,"🍒<span class=""emoji emoji1f4a3""></span>"
-511,江北,Annie,重庆,2,casually cruel. 
-512,常州,全糖奶猪,江苏,2,君を留めん
-513,,Z Y,,2,爱不爱我
-514,,言,Zurich,2,"想和一个人一起吃饭 一起吃好多好多顿饭<span class=""emoji emoji1f412""></span>"
-515,Melbourne,Jay🌲Yu,Victoria,1,朋友圈三天可见
-516,苏州,钱王炎,江苏,2,♻️
-517,洛阳,-,河南,2,18637950916
-518,宝山,曾经瘦过,上海,1,不能吃好吃的活着还有什么意思！
-519,,甜虾梨儿🎐,,2,"愿你今天心情满分哦<span class=""emoji emoji1f388""></span>"
-520,New York,christine.liu@sherochina.com,New York,2,rules are over 
-521,苏州,Lrmoce,江苏,1,：｛）
-522,南京,Holywoo,江苏,2,Hello :)
-523,海淀,Chén Yáng,北京,1,W-O-M-W
-524,,hhhhhhelen,Groningen,2,聿安
-525,,萌呆🐑,,2,Wherefore I don't detest anyone but every single me.
-526,,Mountain,,1,进
-527,,Ruko♡,,0,微博：-Ruko
-528,苏州,Jucie,江苏,2,不种丝瓜 爱吃麻花
-529,,嘉👶🏻,,2,Problem-solver
-530,,思悟,,0,
-531,,D·Z·N·W FTL Suzu,Tokyo,1,"God's in his heaven, all's right with the world
-Memento mori"
-532,Liverpool,是小太陽吖👑,England,2,Where you are is where it's at
-533,,Moon🦄sailoR,,2,和我的不定时更新胡搅蛮缠
-534,,Taurus€£,,1,🚴🏽🚴🏽🚴🏽
-535,苏州,张哈泥 : ）,江苏,2,"think smart <span class=""emoji emoji2764""></span>️ look amazing"
-536,苏州,苗雁,江苏,2,冷暖自知
-537,London,过客而已,England,1,没有懒觉的命，只有早起的病。
-538,苏州,赵之赫 Kyrie,江苏,1,attention 
-539,苏州,Miffy,江苏,2,"<span class=""emoji emoji1f370""></span> 🍤 🍖 🍕 🌭 🌮 🌯 🍩 🍪 🍮<span class=""emoji emoji1f35f""></span> <span class=""emoji emoji1f372""></span>"
-540,洛阳,小白杨,河南,2,想被上天照顾那就趁早下点苦
-541,洛阳,周珏臣,河南,1,非主流
-542,苏州,芽芽💋,江苏,1,幽默而不做作，温柔而努力
-543,,ོN༏L,,2,简单生活，不贪不嗔。以梦为马，随处可栖。
-544,,🌵,,2,恭喜你认识了一个女流氓😴
-545,绍兴,ONE.,浙江,2,
-546,,Tilty,,2,我出走了小半生，归来正巧是童年
-547,南通,Embrace Air,江苏,2,後會有期
-548,Liverpool,Orbment,England,1,
-549,苏州,Evonne,江苏,2,be nice be good
-550,苏州,MattHew,江苏,1,
-551,无锡,Lynn.L,江苏,2,有理想
-552,苏州,马鸿,江苏,1,万丈红尘三杯酒，千秋大业一壶茶。
-553,,堀田,Amsterdam,2,
-554,苏州,乔勿磕~,江苏,2,尔欲去，不尔羁也
-555,,奕萱🔆,,2,poursuivre les étoiles
-556,常州,陈玲,江苏,2,祸兮福之所倚，福兮祸之所伏。
-557,苏州,LUMOS,江苏,2,日常放弃
-558,扬州,Jᴀᴠᴀᶜ,江苏,1,0xFACEB00K
-559,,Air William🎖,,1,爱啤酒，爱足球，爱诗和远方
-560,苏州,曹嘉韵,江苏,2,
-561,苏州,南江,江苏,1,来一个肉夹馍，不要放肉🕴🏿
-562,苏州,Vain,江苏,1,继续前行吧 一步一个脚印
-563,长沙,ZMmmm咧?🦁,湖南,2,买书买书不买书不行了
-564,Liverpool,汀,England,1,十年为期
-565,西安,DDDDv，,陕西,2,"静水流深 沧笙踏歌
-
-保持生活做派
-
-身在井隅 心向璀璨"
-566,Toronto,小小小小小Shadow,Ontario,2,I live my life the way I want to.
-567,太原,郭一锦☁James,山西,1,无人理睬时，坚定执着。万人羡慕时，心如止水。
-568,苏州,Yuufenn,江苏,2,
-569,,何理,Paris,1,The unexamined life is not worth living.
-570,Liverpool,immortel,England,2,HiddenTrack
-571,深圳,欧阳森,广东,1,
-572,苏州,Jiagi🙄,江苏,2,人生完美的事太少 我们不能什么都想要 
-573,,Jinwei Zhang,,1, 刚阳？
-574,,明天是废话,,0,"""FocuscommitmentsheerwilL"""
-575,,Y.J,,1,"                         天气不似预期，但要走，总要飞<span class=""emoji emoji1f463""></span>"
-576,宁波,徐奕,浙江,1,"Eat, Read, Travel"
+435,洛阳,不才,河南,1,山有峰顶 海有彼岸 漫漫长途 终有回转
+436,济南,Lucy🍒,山东,2,我们都会好的 一定会。
+437,苏州,高点点15850164648,江苏,2,高点点あなたは一番優秀だ！
+438,,韩昊,上海,1,
+439,,LEEEEEYY,,1,稗子
+440,虹口,南江淳史,上海,1,心怀若谷，隐耀不张
+441,,Kang Meng,重庆,2,
+442,苏州,天泽,江苏,1,"如果你抬头可以看到光明
+那是有人在驱赶黑暗，负重前行"
+443,海淀,王曦明,北京,1,梦想驱动
+444,London,LIIINX-,England,2,人分两类、迷人乏味
+445,,Ericadolanxia,,1,半夜三更，還到廚房開冰箱找東西吃的人，就只能寫出這樣的文章了
+446,苏州,July,江苏,2,不是一个善良姑娘。
+447,洛阳,阿莉,河南,2,开心就好
+448,,An迪y🐰,,2,Agoni
+449,洛阳,metal,河南,2,"<span class=""emoji emoji2755""></span>"
+450,London,豪,England,1,求田问舍，怕应羞见，刘郎才气
+451,,YAN,Zurich,2,众生皆苦
+452,Liverpool,Matthew Yan,England,1,Every moment counts
+453,Cambridge,陈志坚Jackie,England,1,
+454,,MonkeyBonnie,,2,全世界性格最好的女孩
+455,哈尔滨,Steve,黑龙江,1,"You are here, there's nothing I fear..."
+456,,Melody姜,,2,
+457,London,陶潇凡🍑,England,2,一个不停叨叨叨同时又想保持高冷的纠结型人格
+458,,蛋蛋君🌿,,2,蜂蜜 笑声 和肉包子
+459,London,Tian,England,1,天哥想要个快乐肥宅椅
+460,Edinburgh,Mononokeee,Scotland,1,一个奋力前行的中二男人
+461,德州,糖果糖,山东,2,
+462,,金,,2,◢Frei Otto◣
+463,杭州,神武飒,浙江,1,浮云散，明月照人来。
+464,,爱斯基摩熊,,1,月光照不醒梦境
+465,苏州,叶添宇-氧气制造局,江苏,1,上九天揽月 下五洋捉鳖
+466,黄浦,大猫 Damon,上海,1,做个好人。
+467,南京,江人杰,江苏,1,
+468,苏州,喋喋以喋以喋喋,江苏,2,瘦身，赚钱，成家，游天下。
+469,,布丁的小提琴,汪星球,2,
+470,苏州,Tilty,江苏,2,No road of flowers leads to glory
+471,Cambridge,有笑的脸庞🙀,England,2,
+472,洛阳,沉angel,河南,2,以激情还激情 以爱还爱
+473,,阿翌,,1,
+474,,ོFREEDENG_,,2,"簡 不 以 隨
+單 貪 夢 處
+生 不 為 可
+活 嗔 馬 棲"
+475,,王楚菲,,2,不开口笑是痴人
+476,杨浦,Turbo,上海,2,written in the stars
+477,,Y.J,,1,"                                     Trust the process<span class=""emoji emoji1f463""></span>"
+478,,焦红卫,Burgenland,1,。。。。。。
+479,洛阳,佛主,河南,1,伟人
+480,徐汇,🌻秦丽 (Lisa),上海,2,TEDx|壹言社
+481,西城,方舟,北京,1,
+482,London,Ryan Xue,England,1,
+483,洛阳,苗浩洁,河南,1,Keep calm and carry on.
+484,南京,董董咚咚锵,江苏,2,No one told you life was gonna be this way
+485,济南,я刘朔晗,山东,1,我叫刘朔晗
+486,常州,全糖奶猪,江苏,2,🍯
+487,苏州,竹林,江苏,2,
+488,海淀,刀～,北京,1,昭昭碧落，舒云远岫
+489,苏州,XIN~BALLET💕👰🏻💕yoyo,江苏,2,"<span class=""emoji emoji1f49c""></span>～◡̈⃝⃝XIN~BALLET dance studio～"
+490,苏州,suvie,江苏,2,民咕咕真可爱
+491,London,过客而已,England,1,赚钱养梦。
+492,苏州,camille,江苏,2,complain less laugh more
+493,杨浦,小队长(Eric),上海,1,Wubba lubba dub dubs
+494,苏州,sue,江苏,2,遇见更好的自己
+495,,Meandy,,2,"<span class=""emoji emoji1f430""></span>祝你今天心情满分哦<span class=""emoji emoji1f61d""></span>"
+496,苏州,Lrmoce,江苏,1,To be young and in love.
+497,苏州,理智高于情感,江苏,2,Reason over Romance 
+498,杨浦,belinda🌛,上海,2,"<span class=""emoji emoji1f33f""></span> 靡不有初，鲜克有终"
+499,洛阳,中流砥柱,河南,1,
+500,南京,考不出来TG 我就叫孙超越,江苏,1,An apathy TG slayer.
+501,,🌿,,1,
+502,,还完花呗改名字,,2,...
+503,London,芒果班戟🌻,England,0,Best version of myself
+504,,Kayla.tan,,2,一切很好 不缺烦恼
+505,苏州,Luc,江苏,1,职业生涯咨询师、引导师、培训师
+506,,简儿,Luzern,2,"<span class=""emoji emoji1f367""></span><span class=""emoji emoji1f353""></span>"
+507,Liverpool,Chakyu Liew (Track),England,1,此朋友圈可见
+508,Chiba-shi,红薯大哥,Chiba-ken,2,"半年后见<span class=""emoji emoji2600""></span>️"
+509,苏州,HarOldShaw,江苏,1,grow wild
+510,南通,黄小仙儿,江苏,2,生活明朗 万物可爱
+511,南京,Cecilia,江苏,2,李潇云
+512,Cambridge,王瀚宸,England,1,希望 一生温暖纯良 不舍爱与自由
+513,,王以宁,,2,今生卖花 来世漂亮
+514,洛阳,V,河南,1,男人是用金钱装扮自己的。
+515,苏州,Natalie,江苏,2,日月星辰
+516,常州,Nobody,江苏,1,journeys end in lovers' meeting.
+517,海淀,NANA,北京,2,对知识抱有崇敬
+518,贵阳,邵教授,贵州,1,贵州邵克英语教育咨询有限公司
+519,朝阳,周珏臣,北京,1,改掉惰性
+520,苏州,Leo,江苏,1,宁我负人 休人负我
+521,,江上清风游,,1,懒到什么都没有留下
+522,苏州,Evonne,江苏,2,Kitty
+523,东城,方庄 Zhuāng,北京,1,你看到的不是我。
+524,Liverpool,Jemmy 杨,England,1,慎独 初心 自省 
+525,Cambridge,喜丁,England,2,"  我声音太凶 但你不急<span class=""emoji emoji2764""></span>"
+526,Glasgow,Mr.Chan,Scotland,1,窗口是为了更好的了解
+527,苏州,Undefined,江苏,1,秋天该很好
+528,丽水,吃猫的鱼,浙江,1,去吧孩子，追逐你的梦想去吧，你可以做任何事情。
+529,漳州,sakuraume,福建,2,心有猛虎，细嗅蔷薇
+530,Cambridge,Odelette Tang🐾,England,2,
+531,西安,AirmanGo,陕西,1,我喜欢你  比喜欢老子庄子孟子孔子还要喜欢
+532,贵阳,akir,贵州,2,八全八美 酒酒皈依
+533,San Diego,Baboon,California,1,。
+534,洛阳,🍊,河南,2,国家一级退堂鼓表演艺术家
+535,长沙,高天翔,湖南,1,科学技术领域是没有硝烟的战场
+536,苏州,李子傲,江苏,1,
+537,Bath,Wensi,England,2,不争，不爱，不悲，不喜。
+538,,碎碎,北京,1,
+539,九龙城区,Nancy@朱熙,香港,2,“ Be water my friend ” ～～～
+540,苏州,啊檀檀檀檀噢,江苏,2,"<span class=""emoji emoji1f47d""></span>"
+541,Cambridge,Yue 朱玥,England,2,
+542,洛阳,萌🍃,河南,1,这个世界有好人，也有坏人。而我，夹在中间，左是温暖，右是荒寒
+543,朝阳,Élias,北京,1,
+544,,菠萝🍍,,0,⛰️
+545,,Gisselle,,0,谢谢
+546,洛阳,Pete,河南,1,Everybody finds love.
+547,海淀,刘兰馨,北京,2,"在追求优秀的路上马不停蹄<span class=""emoji emoji1f434""></span>"
+548,苏州,DDDDv，,江苏,2,青春不解红尘
+549,,嘉宝,,2,"热爱生活的宝哥<span class=""emoji emoji1f423""></span>🦉<span class=""emoji emoji1f423""></span>🦉<span class=""emoji emoji1f423""></span>🦉"
+550,,Nero,Roma,0,"Be my friend, and I'll absorb your bad luck, by design."
+551,苏州,曹嘉韵,江苏,2,玉娇龙
+552,Cleveland City,HarryZhu,Ohio,1,Valar Morghulis
+553,南京,Vivi,江苏,2,我心安处是吾乡
+554,洛阳,镜子,河南,2,做人一定要昂首挺胸，这样别人才看不见你的双下巴。
+555,苏州,嘉华,江苏,1,往者不可谏，来者犹可追
+556,苏州,9,江苏,2,She's gone 
+557,,武小宇,,2,痛苦最终会化为营养
+558,苏州,牛牛,江苏,2,
+559,,palette of God,,1,"伊
+玛
+目"
+560,苏州,Vain,江苏,1,都别逃啊
+561,,Meepo💤,,1,Libre et assoupi
+562,,贾若琳,,2,        Just trust the process
+563,,Jeff He,,1,大家笑一笑就好
+564,,Scarlett🧸,Taipei,0,
+565,,芽芽🐬,,2,
+566,,Cici·蔡,,0,假期ing～有事请留言，我会及时回复～
+567,苏州,Hจุ๊บry,江苏,1,知行合一
+568,苏州,kim,江苏,2,同理心
+569,,FRANCES,,0,whys
+570,苏州,苏小评Sophia S.,江苏,2,Less is more
+571,,Xingshu.Z😘,上海,2,时时可死，才能步步求生。
+572,,Luna,,0,一生温暖纯良，不舍爱与自由
+573,,Sprechen Sie Deutsch?,Munich,2,Be a sport. 
+574,Winchester,张哈妮儿 : ）,England,2,幂次法则
+575,苏州,👠K&amp;Q YU🍷（鱼文娟Alice）,江苏,2,为目标而生，为奋斗而战@ME
+576,苏州,孟磊,江苏,1,
+577,,👑 DaJie.,,2,"上好佳  <span class=""emoji emoji2728""></span> <span class=""emoji emoji1f495""></span>"
+578,London,Mountain,England,1,🤫
+579,黄浦,早上好,上海,1,努力是金。
+580,盐城,撕葱九段,江苏,1,"箭如流星参商渡
+漫舞倾城凝玉骨"
+581,Sydney,乔勿磕~,New South Wales,2,世界上只有一种英雄主义，就是认清生活的本质后依然热爱生活
+582,,Ruko♡,,0,Know me for me
+583,Liverpool,Breathless,England,1,
+584,,April · NJ,,2,不疑
+585,苏州,🐣gulugulu,江苏,2,不想
+586,洛阳,Dan,河南,1,May you triumph
+587,长春,孙硕,吉林,2,我是不是已经买到了自己死的时候会穿着的那身衣服了呢
+588,哈尔滨, ,黑龙江,2,
+589,无锡,Lynn.L,江苏,2,看到这行字请提醒我减肥谢谢
+590,苏州,欧阳润泽Lanrena,江苏,2,平安喜乐
+591,,，,,1,
+592,London,早安¹¹²²,England,2,
+593,London,Szz,England,1,Lost star
+594,,Charlie🍊,Acapulco,2,need nth
+595,Melbourne,Haya 🤨 魏尧尧,Victoria,2,"勤能补拙<span class=""emoji emoji1f4aa""></span>🏻笨鸟先飞<span class=""emoji emoji1f425""></span>"
+596,苏州,KakkaLinn,江苏,2,谁能束缚月光呢？
+597,成都,叶一帆,四川,2,
+598,洛阳,君雅颂,河南,2,颂就是那个宋啊
+599,,君牙:3,,2,不要随便走进别人的世界还要乱打洞。
+600,,Jinwei,,1,无趣
+601,洛阳,🔘,河南,2,
+602,苏州,他叫Graves🔙,江苏,1,"""still walking"""
+603,长沙,ZMmmm咧?🦁,湖南,2,"<span class=""emoji emoji1f64f""></span>"
+604,,奥尔什蛋,,0,emmm
+605,温州,圆,浙江,1,心自在 语默动静体自然
+606,南京,芝士圈留学 小耶 Yedda,江苏,2,小耶在线工作时间：工作日9:00-11:30；13:00-18:00 :)
+607,苏州,阿吞仔,江苏,2,🦕
+608,海淀,I wanna roll,北京,2,
+609,洛阳,大龄考研女青年,河南,2,"越努力越幸运<span class=""emoji emoji1f340""></span>"
+610,朝阳,丧心病狂zhangandi🦄,北京,1,什么都吃
+611,,弟中弟,,1,"<span class=""emoji emoji1f446""></span> This world is never meant for one as beautiful as you"
+612,洛阳,侠之大者,河南,1,他强由他强，清风拂山岗；         他横由他横，明月照大江。
+613,Melbourne,Jay🤔Yu,Victoria,1,"<span class=""emoji emoji1f44b""></span>"
+614,洛阳,岁月如梭,河南,2,
+615,苏州,penguinamy🐧,江苏,2,Luck is the greatest superpower.
+616,西安,杨玉嫣,陕西,2,Smart is the new sexy.
+617,渭南,Livia_,陕西,2,"5 days left<span class=""emoji emoji1f49d""></span>"
+618,苏州,👉瀞漫,江苏,2,我没有秘密。
+619,,Moon🦄sailoR,,2,
+620,苏州,赵之赫 Kyrie,江苏,1,God is Watching
+621,苏州,钱王炎,江苏,2,♻️
+622,徐汇,反正你们都有备注改个名字谁知道,上海,0,
+623,海淀,Dandy,北京,1,像大夏天的雷雨一样的泪水 一直下 一直下
+624,苏州,Soda,江苏,2,
+625,苏州,是名净信,江苏,2,要做乘法，而不是加法
+626,广州,加勒比海蓝,广东,2,不忘初心。
+627,石家庄,陈从容 Judy,河北,2,hello！
+628,,MDZZ 💤,,1,追真求美。矛盾；统一。
+629,,变态侦探,,2,
+630,London,Denie Yang,England,2,I’m rooted but I flow.
+631,西安,Z Y,陕西,2,今天的我还爱你 明天就不了
+632,武汉,陈忠谨,湖北,1,
+633,,卓君,,2,不知道想做什么的话就什么都别做
+634,杭州,HXD,浙江,1,跑啊跑 不知疲倦
+635,Liverpool,英国欧亚（裹裹达）快递Lucycao,England,2,愿得一人心 白首不相离
+636,西城,Bazinga,北京,1,请在我们脏的时候爱我们
+637,,大老板®,,2,不要见怪
+638,南京,👆 Kibb,江苏,1,"与自己和解<span class=""emoji emoji270c""></span>️"
+639,衡阳,🌸熹🍉熹🌸,湖南,2,既以物喜 又以己悲
+640,New York,christine.liu@sherochina.com,New York,2,Fit into Future 
+641,,(¬_¬),,2,滴滴打人Top1打手
+642,,Lulia,,2,感激日记
+643,浦东新区,Chloe.陶👽,上海,2,XXXX.
+644,宝山,旺达巨胖,上海,1,确认过眼神，我们都是社会人。
+645,嘉兴,Artemis💋🐳,浙江,2,Death is certain but life is not
+646,,汀,,1,Actions &amp; Doubts.
+647,,冬。,,2,哦。
+648,,🔅洁洁🔅,,2,桃李春风一杯酒
+649,苏州,江花,江苏,1,
+650,西城,墨西ϵ( 'Θ' )϶,北京,2,Self-management
+651,,Ray,,1,谢谢你
+652,洛阳,小王同学,河南,2,还需时日，务必加油。
+653,海淀,张雨晴🖖,北京,0,亡命天涯
+654,淄博,香蕉与六便士,山东,2,心不妥协
+655,Toronto,小小小小小Shadow,Ontario,2,当时明月在 曾照彩云归
+656,苏州,是你的冷仔,江苏,2,若世界漆黑，我愿为光
+657,南充,Karlin卓妮🌟,四川,2,二熊说：我好评我人生的每一天！
+658,浦东新区,Lulu,上海,2,希望你学会在不成功的人生中随遇而安。

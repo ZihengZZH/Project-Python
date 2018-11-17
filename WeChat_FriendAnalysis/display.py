@@ -6,11 +6,22 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import os
+import datetime
 from pyecharts import Pie,Bar,Geo,Map
 
 
 class displayResult(object):
-
+    def __init__(self):
+        self.now = datetime.datetime.now()
+        try:
+            os.remove("bar_chart_city.html")
+            os.remove("bar_chart_province.html")
+            os.remove("geo_chart_city.html")
+            os.remove("geo_chart_province.html")
+            print("previous results deleted")
+        except:
+            return
+        
     # Show the sex with pie chart
     def sex_display(self,friends):
         sex = friends.iloc[:,4]
@@ -18,12 +29,12 @@ class displayResult(object):
         sex_result = sex.value_counts()
 
         sex_dict = {'Other':sex_result[0],'Male':sex_result[1],'Female':sex_result[2]}
-        sex_pie = Pie("Gender Counting Result")
+        sex_pie = Pie("Gender Counting Result", "updated " + str(self.now))
         sex_pie.add("",sex_dict.keys(),sex_dict.values(),is_random=True,is_label_show=True)
 
         sex_pie.show_config()
         sex_pie.render(r"pie_chart_sex.html")
-        print "Successfully written to file"
+        print("pie_chart_sex successfully written to file")
 
 
     # Show the city with bar chart and geo chart
@@ -43,38 +54,51 @@ class displayResult(object):
         pyechart can take the list directly from series
         '''
         # Bar chart with city
-        bar = Bar("City of my friends")
-        bar.add("city",city_name,city_num,width=1200,height=600,is_label_show=True,is_datazoom_show=True)
-        bar.show_config()
-        bar.render(r"bar_chart_city.html")
-        print "Successfully written to file"
+        bar_city = Bar("City of my friends", "updated " + str(self.now))
+        bar_city.add("city",city_name,city_num,width=1200,height=600,is_label_show=True,is_datazoom_show=True)
+        bar_city.show_config()
+        bar_city.render(r"bar_chart_city.html")
+        print("bar_chart_city successfully written to file")
+
+        return  # some districts inside cities cannot be identified 
+                # cannot be fixed at the moment
+
+        city = friends.iloc[:,1]
+        # delete those whose city is not declared
+        city = city.dropna() 
+        # delete all foreign cities
+        city = city[city.isin([x for x in city if ord(str(x)[0]) > 123])]
+        city_name = city.value_counts().index.tolist()
+        city_num = city.value_counts().values.tolist()
 
         # Geo chart with city
         city_name.append("city")
         city_num.append(0)
-        geo = Geo("City of my friends", title_color="#fff",width=1200,height=600,background_color='#404a59')
-        geo.add("city",city_name,city_num,visual_range=[0,200],visual_text_color="#fff",symbol_size=15,is_visualmap=True)
-        geo.show_config()
-        geo.render(r"geo_chart_city.html")
-        print "Successfully written to file"
+        geo_city = Geo("City of my friends", title_color="#fff",width=1200,height=600,background_color='#404a59')
+        geo_city.add("city",city_name,city_num,visual_range=[0,200],visual_text_color="#fff",symbol_size=15,is_visualmap=True)
+        geo_city.show_config()
+        geo_city.render(r"geo_chart_city.html")
+        print("geo_chart_city successfully written to file")
 
 
     def province_display(self,friends):
         province = friends.iloc[:,3]
         province_name = province.value_counts().index.tolist()
         province_num = province.value_counts().values.tolist()
+
         # Bar chart with province
-        bar = Bar("Province of my friends")
-        bar.add("province",province_name,province_num,width=1200,height=600,is_label_show=True,is_datazoom_show=True)
-        bar.show_config()
-        bar.render(r"bar_chart_province.html")
-        print "Successfully written to file"
+        bar_prov = Bar("Province of my friends", "updated " + str(self.now))
+        bar_prov.add("province",province_name,province_num,width=1200,height=600,is_label_show=True,is_datazoom_show=True)
+        bar_prov.show_config()
+        bar_prov.render(r"bar_chart_province.html")
+        print("bar_chart_province successfully written to file")
+
         # Geo chart with province
-        map = Map("Province of my friends",width=1200,height=600)
-        map.add("",province_name,province_num,maptype='china',is_visualmap=True,visual_text_color="#000")
-        map.show_config()
-        map.render(r"geo_chart_province.html")
-        print "Successfully written to file"
+        geo_prov = Map("Province of my friends",width=1200,height=600)
+        geo_prov.add("",province_name,province_num,maptype='china',is_visualmap=True,visual_text_color="#000")
+        geo_prov.show_config()
+        geo_prov.render(r"geo_chart_province.html")
+        print("geo_chart_province successfully written to file")
 
 
     def run(self):
@@ -85,7 +109,8 @@ class displayResult(object):
             self.province_display(friends)
 
         except:
-            print "RUN TIME ERROR WHEN LOADING DATA"
+            print("RUN TIME ERROR WHEN LOADING DATA")
+        
 
 
 if __name__ == "__main__":

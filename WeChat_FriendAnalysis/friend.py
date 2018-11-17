@@ -25,7 +25,7 @@ class friendAnalysis(object):
             else:
                 other += 1
         total = len(friends[1:])
-        print "Male",male,"\nFemale",female,"\nOther",other,"\nTotal",total
+        print("Male",male,"\nFemale",female,"\nOther",other,"\nTotal",total)
 
     # Get variable from friends
     def get_var(self,var,friends):
@@ -62,5 +62,5 @@ class friendAnalysis(object):
 if __name__ == "__main__":
     begin = friendAnalysis()
     begin.run()
-    print "Friends information has been successfully extracted"
-    print "Run display.py next to get the graphs"
+    print("Friends information has been successfully extracted")
+    print("Run display.py next to get the graphs")

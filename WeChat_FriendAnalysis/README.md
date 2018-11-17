@@ -9,3 +9,5 @@ This project is intended to read and visualise friends information from one spec
 
 
 NOTE: There is something that should be paid much attention: encoding. The default encoding in Python is ASCII, which does not support chinese character correctly. So, utf-8 encoding should be declared at the beginning of the code.
+
+NOTE (11/2018): Py2 to Py3
