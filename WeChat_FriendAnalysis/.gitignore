@@ -1,5 +1,5 @@
 # exclude all the result htmls
 */__pycache__/
 .vscode
-*.html
-*.csv
+/*.html
+/*.csv
